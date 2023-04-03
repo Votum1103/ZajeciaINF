@@ -1,4 +1,4 @@
 class Transformer():
 
     def transformer():
-        pass
+        print("Zrobiło transformacje")
